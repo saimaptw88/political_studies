@@ -1,7 +1,11 @@
 ## INTRODUCTION
-name: saima
-why: study politics and analyze Japan badness
+- name: saima
+- why: study politics and analyze Japan badness
 
 ## 概要
+- test
+- test
 
-## 第一章
+## Section 1
+- test
+- test
